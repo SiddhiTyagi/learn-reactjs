@@ -1,2 +1,2 @@
 # learn-reactjs
-Basic code to learn reactjs &amp; various projects
+Basic code to learn reactjs and various projects
